@@ -2,6 +2,8 @@ Word Masters
 
 This is a wordle game, created with HTML, CSS and JavaScript.
 
+<img width="714" alt="Untitled" src="https://github.com/josgar14/Wordy-Masters/assets/42749669/c442f6d7-f5f2-4a8f-99de-c355fb9b375f">
+
 How to play?
 
 There is a secret five letter word chosen
